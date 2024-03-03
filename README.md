@@ -13,6 +13,6 @@
 
 #
 ### 📃 Latest posts on Finance & Technology
-[]([https://livingyourgreatest.com/algorithmic-trading/])
+[Algorithmic Trading](https://livingyourgreatest.com/algorithmic-trading/)
  
 
