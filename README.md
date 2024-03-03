@@ -13,7 +13,8 @@
 
 #
 ### 📃 Latest posts on Finance & Technology
-[Algorithmic Trading](https://livingyourgreatest.com/algorithmic-trading/)<img align="left" alt="Java" width="40px" style="padding-right:10px;" src= "![image](https://github.com/AkashGaonkar758/AkashGaonkar758/assets/136920848/59d036b0-4d3c-49b4-b69e-2750aba2d51d)"/>
+[Algorithmic Trading](https://livingyourgreatest.com/algorithmic-trading/)
+[The Emergence of Cryptocurrency](https://livingyourgreatest.com/the-emergence-of-cryptocurrency/)
 
  
 
