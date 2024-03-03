@@ -13,6 +13,6 @@
 
 #
 ### 📃 Latest posts on Finance & Technology
-[🥳 Describe your commits using Gitmoji]([https://livingyourgreatest.com/algorithmic-trading/])
+[]([https://livingyourgreatest.com/algorithmic-trading/])
  
 
