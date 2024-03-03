@@ -13,8 +13,8 @@
 
 #
 ### 📃 Latest posts on Finance & Technology
--[Algorithmic Trading](https://livingyourgreatest.com/algorithmic-trading/)
--[The Emergence of Cryptocurrency](https://livingyourgreatest.com/the-emergence-of-cryptocurrency/)
+-[Algorithmic Trading](https://livingyourgreatest.com/algorithmic-trading/) <br>
+-[The Emergence of Cryptocurrency](https://livingyourgreatest.com/the-emergence-of-cryptocurrency/) <br>
 
  
 
