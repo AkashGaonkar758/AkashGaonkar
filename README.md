@@ -11,11 +11,11 @@
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <br />
 
-#
+---
 ## 📃 Latest posts on Finance & Technology
--[Algorithmic Trading](https://livingyourgreatest.com/algorithmic-trading/) <br>
--[The Emergence of Cryptocurrency](https://livingyourgreatest.com/the-emergence-of-cryptocurrency/) <br>
--[The Relevance of Programming](https://livingyourgreatest.com/the-relevance-of-programming/)<br>
--[Digital footprints & Social Engineering](https://livingyourgreatest.com/digital-footprints-social-engineering/)
+- [Algorithmic Trading](https://livingyourgreatest.com/algorithmic-trading/) <br>
+- [The Emergence of Cryptocurrency](https://livingyourgreatest.com/the-emergence-of-cryptocurrency/) <br>
+- [The Relevance of Programming](https://livingyourgreatest.com/the-relevance-of-programming/)<br>
+- [Digital footprints & Social Engineering](https://livingyourgreatest.com/digital-footprints-social-engineering/)
  
 
